@@ -1,6 +1,5 @@
 # Local Exareme Deployment Guide
 
-
 Here you will find all the information needed in order to deploy Exareme in your environment via docker compose and shell scripts.
 
 # Requirement
